@@ -15,7 +15,7 @@ function Hero() {
                         Clean, Cruelty-Free, and Elegant Cosmetics Made for Every Skin Tone
                     </h2>
                     <p className="mt-4 sm:mt-6 md:mt-8 font-medium text-sm sm:text-base md:text-lg text-gray-700 max-w-md mx-auto lg:mx-0">
-                        Whether you're looking for a radiant glow, a pop of color, or subtle elegance, our curated collection has something for every style.
+                        Whether you are looking for a radiant glow, a pop of color, or subtle elegance, our curated collection has something for every style.
                     </p>
                     <button className="py-2 px-4 bg-pink-700 text-white hover:bg-pink-600 hover:cursor-pointer mt-6 sm:mt-8 lg:mt-10 text-base sm:text-lg rounded">
                         Shop Now
